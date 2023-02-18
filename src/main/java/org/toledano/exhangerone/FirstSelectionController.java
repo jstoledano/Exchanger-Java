@@ -3,7 +3,7 @@ package org.toledano.exhangerone;
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;
 
-public class HelloController {
+public class FirstSelectionController {
     @FXML
     private Label welcomeText;
 
