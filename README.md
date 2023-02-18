@@ -1,6 +1,9 @@
-![](./assets/exchangerONE.gif)
-
 # Exchanger ONE
+
+<p align="center">
+![](./assets/exchangerONE.gif)
+</p>p
+
 
 As part of the development program offered by
 [Oracle Next Education](https://www.oracle.com/mx/education/oracle-next-education/)
@@ -15,8 +18,9 @@ The application is built using Maven and features a graphical
 user interface created with [JavaFX](https://openjfx.io/).
 
 --- 
-![](./assets/one-alura.png)
-
+<p align="center">
+<img src="./assets/one-alura.png" alt="ONE-alura" />
+</p>
 
 Dentro del programa de desarrollo de [Oracle Next Education](https://www.oracle.com/mx/education/oracle-next-education/) y 
 [Alura Latam](https://www.aluracursos.com/) uno de los desafíos o _challenges_ que se proponen
