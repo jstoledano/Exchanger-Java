@@ -2,8 +2,8 @@
 
 # Exchanger-Java
 
-<img src="./assets/one.png" width="150px" alt="Logo ONE"/>
-<img src="./assets/alura.png" width="150px" alt="alura logo" />
+<img src="./assets/one.png" height="150px" alt="Logo ONE"/>
+<img src="./assets/alura.png" height="150px" alt="alura logo" />
 
 
 Dentro del programa de desarrollo de [Oracle Next Education](https://www.oracle.com/mx/education/oracle-next-education/) y 
