@@ -1,8 +1,8 @@
 # Exchanger ONE
 
 <p align="center">
-![](./assets/exchangerONE.gif)
-</p>p
+<img src="./assets/exchangerONE.gif" alt="alura challenge" />
+</p>
 
 
 As part of the development program offered by
