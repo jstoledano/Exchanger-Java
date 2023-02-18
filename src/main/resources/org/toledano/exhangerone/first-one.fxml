@@ -7,18 +7,17 @@
 <?import javafx.scene.layout.Pane?>
 <?import javafx.scene.text.Font?>
 
-
-<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1">
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="275.0" prefWidth="603.0" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1">
    <children>
-      <ChoiceBox layoutX="225.0" layoutY="170.0" prefWidth="150.0" />
-      <Button fx:id="btnEjecutar" contentDisplay="CENTER" defaultButton="true" layoutX="316.0" layoutY="200.0" mnemonicParsing="false" text="Ejecutar" textAlignment="CENTER">
+      <ChoiceBox fx:id="cbOpciones" layoutX="243.0" layoutY="137.0" prefWidth="150.0" />
+      <Button fx:id="btnEjecutar" contentDisplay="CENTER" defaultButton="true" layoutX="335.0" layoutY="172.0" mnemonicParsing="false" text="Ejecutar" textAlignment="CENTER">
          <styleClass>
             <String fx:value="btn" />
             <String fx:value="btn-primary" />
          </styleClass>
       </Button>
-      <Label layoutX="225.0" layoutY="147.0" text="Selección de Exchange" />
-      <Label layoutX="87.0" layoutY="42.0" text="Exchanger App - Alura ONE">
+      <Label fx:id="lblOpciones" layoutX="243.0" layoutY="114.0" text="Selección de Exchange" />
+      <Label id="lnl:title" fx:id="lblTitle" layoutX="103.0" layoutY="42.0" text="Exchanger App - Alura ONE">
          <font>
             <Font name="Britannic Bold" size="36.0" />
          </font>

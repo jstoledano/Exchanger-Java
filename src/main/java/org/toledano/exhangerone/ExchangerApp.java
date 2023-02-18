@@ -11,7 +11,7 @@ public class ExchangerApp extends Application {
     @Override
     public void start(Stage primaryStage) throws IOException {
         FXMLLoader fxmlLoader = new FXMLLoader(ExchangerApp.class.getResource("first-one.fxml"));
-        Scene scene = new Scene(fxmlLoader.load(), 640, 480);
+        Scene scene = new Scene(fxmlLoader.load(), 640, 240);
         primaryStage.setTitle("Exchanger ONE");
         primaryStage.setScene(scene);
         primaryStage.show();
